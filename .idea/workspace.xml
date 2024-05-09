@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="10f3514b-fa4d-435e-b0a6-81c3ae5d4be9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/mod12 ex01 - regressão linear simples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/mod12 ex01 - regressão linear simples.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/mod12 ex02 - transformações em X e Y.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/mod12 ex02 - transformações em X e Y.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/Material/mod12 aula05 nb02 - regressão linear múltipla.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/Material/mod12 aula05 nb02 - regressão linear múltipla.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/mod12 ex03 - regressão múltipla.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Regressão I/mod12 ex03 - regressão múltipla.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
