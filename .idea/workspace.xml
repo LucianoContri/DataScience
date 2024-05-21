@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="10f3514b-fa4d-435e-b0a6-81c3ae5d4be9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python para Análise de Dados/module_9_exercise_solved/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python para Análise de Dados/module_9_exercise_solved/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/Atividade-Pratica-3.ipynb" beforeDir="false" />
     </list>
@@ -35,6 +34,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2d5rr2IKf1zld9F0UWVNilWI0W6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +55,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-8169a31fad14-083d02a8fb4b-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.14494.247" />
+        <option value="bundled-python-sdk-559ba0cadc45-1e0160e1c7f0-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.15989.62" />
       </set>
     </attachedChunks>
   </component>
