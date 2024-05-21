@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="10f3514b-fa4d-435e-b0a6-81c3ae5d4be9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/PESO mediano por escolaridade mae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media apgar1 por gestacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media idade mae por data.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media idade mae por sexo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media peso bebe por sexo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/Atividade-Pratica-3.ipynb" beforeDir="false" />
     </list>
@@ -18,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -52,6 +58,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\EBAC - Ciência de dados\Cientista de Dados\Desenvolvimento de aplicações com Python\Scripting" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
