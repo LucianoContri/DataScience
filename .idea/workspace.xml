@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10f3514b-fa4d-435e-b0a6-81c3ae5d4be9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Cientista de Dados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Cientista de Dados.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/PESO mediano por escolaridade mae.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media apgar1 por gestacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media idade mae por data.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media idade mae por sexo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de aplicações com Python/Scripting/output/figs/2019-12/media peso bebe por sexo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python para Análise de Dados/module_9_exercise_solved/module_9_exercise_revisado_resolvido.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python para Análise de Dados/module_9_exercise_solved/module_9_exercise_revisado_resolvido.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../POS_PUC/Redes Neurais/Atividade-Pratica-3.ipynb" beforeDir="false" />
     </list>
@@ -47,19 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/DEV/Datasets&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/DEV/Datasets",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\EBAC - Ciência de dados\Cientista de Dados\Desenvolvimento de aplicações com Python\Streamlit\.streamlit" />
       <recent name="C:\DEV\EBAC - Ciência de dados\Cientista de Dados\Desenvolvimento de aplicações com Python\Scripting" />
     </key>
   </component>
