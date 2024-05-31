@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Analise_de_Renda" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../POS_PUC" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../POS_PUC - Copy (2)" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../Projetos/Credit_Score" vcs="Git" />
