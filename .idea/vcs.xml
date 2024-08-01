@@ -2,9 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Bix" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Analise_de_Renda" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../POS_PUC" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../POS_PUC - Copy (2)" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../Projetos/Credit_Score" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../backup/EBAC - Ciência de dados/Analise_de_Renda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../backup/EBAC - Ciência de dados/Cientista de Dados" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../backup/POS_PUC" vcs="Git" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-import streamlit as st
+import app as st
 import folium
 from streamlit_folium import folium_static as st_folium
 import matplotlib.pyplot as plt
